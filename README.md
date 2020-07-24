@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hi there 👋
+
+## 📫 How to reach me
+ - ### [`NaverBlog`]
+## 💬 Ask me about ... 
+ - ### zzang9ha@naver.com
+
+[`NaverBlog`]: https://blog.naver.com/zzang9ha
+
 
 <!--
 **JuHyun419/JuHyun419** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
