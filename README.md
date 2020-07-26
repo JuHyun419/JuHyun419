@@ -1,4 +1,5 @@
-# Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hi&nbsp;there&nbsp;👋&fontSize=90)  
+
 
 ## 📫 How to reach me
  - ### [`NaverBlog`]
@@ -7,6 +8,7 @@
 
 [`NaverBlog`]: https://blog.naver.com/zzang9ha
 
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer&&fontSize=90)  
 
 <!--
 **JuHyun419/JuHyun419** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
