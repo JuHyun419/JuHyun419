@@ -1,3 +1,4 @@
+<!--
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hi&nbsp;there&nbsp;👋&fontSize=90)  
 
 
@@ -9,9 +10,16 @@
 [`NaverBlog`]: https://blog.naver.com/zzang9ha
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer&&fontSize=90)  
+-->
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JuHyun419&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JuHyun419&repo=JuHyun419)](https://github.com/JuHyun419/JuHyun419)
+
 
 <!--
 **JuHyun419/JuHyun419** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
