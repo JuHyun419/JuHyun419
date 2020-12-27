@@ -13,11 +13,11 @@ test ~
 test~~
 
 
-  <div align=center>
+<div align=center>
   
-  [![Tech Blog](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://kinetic27.github.io/)](https://kinetic27.github.io/) 
-  [![Twitter Follow](https://img.shields.io/twitter/follow/dev_kinetic?label=Follow%20me&style=social)](https://twitter.com/dev_kinetic)
-  </div>
+  [![Tech Blog](http://img.shields.io/badge/-Tech%20Blog-green?style=flat&logo=Blogger&link=https://blog.naver.com/zzang9ha)](https://blog.naver.com/zzang9ha) 
+  [![Study](http://img.shields.io/badge/-Study%20-655ced?style=flat&logo=github&link=https://github.com/jh-dev-study)](https://github.com/jh-dev-study) 
+  [![Project](http://img.shields.io/badge/-Project-ff69b4?style=flat&logo=github&link=https://github.com/jh-project-repo)](https://github.com/jh-project-repo) 
 
 
 
