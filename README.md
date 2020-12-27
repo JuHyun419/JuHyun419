@@ -5,12 +5,27 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer&&fontSize=90)  
 -->
 
-Hi There :smile:  
+## JuHyun 🐔
+---------------------------------------------------------
+### Hello World! 
+
+test ~
+test~~
+
+
+<div align=center>
+
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://zzsza.github.io/) 
+[![Study Badeg](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/seong-yun-byeon-8183a8113/) 
+[![Project Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/c/kyleschool) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:snugyun01@gmail.com)
+</div>
 
 
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JuHyun419&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![JuHyun's github stats](https://github-readme-stats.vercel.app/api?username=JuHyun419&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
