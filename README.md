@@ -12,7 +12,6 @@ Hi There :smile:
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JuHyun419&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JuHyun419&repo=github.com/jh-dev-study)](https://github.com/jh-dev-study)
 
 
 <br><br>
