@@ -13,6 +13,14 @@ test ~
 test~~
 
 
+
+
+
+[![JuHyun's github stats](https://github-readme-stats.vercel.app/api?username=JuHyun419&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
+
+
 <div align=center>
   
   [![Tech Blog](http://img.shields.io/badge/-Tech%20Blog-green?style=flat&logo=Blogger&link=https://blog.naver.com/zzang9ha)](https://blog.naver.com/zzang9ha) 
@@ -20,12 +28,7 @@ test~~
   [![Project](http://img.shields.io/badge/-Project-ff69b4?style=flat&logo=github&link=https://github.com/jh-project-repo)](https://github.com/jh-project-repo) 
   [![Gmail](http://img.shields.io/badge/Gmail-important?style=flat&logo=Gmail&link=mailto:zzang9haha@gmail.com)](mailto:zzang9haha@gmail.com) 
 
-
-
-
-
-[![JuHyun's github stats](https://github-readme-stats.vercel.app/api?username=JuHyun419&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+</div>
 
 
 <br><br>
