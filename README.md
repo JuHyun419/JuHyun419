@@ -1,16 +1,10 @@
 <!--
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hi&nbsp;there&nbsp;👋&fontSize=90)  
 
-
-## 📫 How to reach me
- - ### [`NaverBlog`]
-## 💬 Ask me about ... 
- - ### zzang9ha@naver.com
-
-[`NaverBlog`]: https://blog.naver.com/zzang9ha
-
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer&&fontSize=90)  
 -->
+
+
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JuHyun419&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
