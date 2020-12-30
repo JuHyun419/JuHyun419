@@ -5,12 +5,11 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer&&fontSize=90)  
 -->
 
-## JuHyun 🐔
+# JuHyun 🐔
 ---------------------------------------------------------
 ### Hello World
 
     
-
 
 
 [![JuHyun's github stats](https://github-readme-stats.vercel.app/api?username=JuHyun419&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
