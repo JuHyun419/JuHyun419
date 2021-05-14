@@ -12,7 +12,7 @@
 
 <p align="center">
  
-  <img width="500" height="200" alt="Github status" src="https://github-readme-stats.vercel.app/api?username=JuHyun419&count_private=true&theme=radical">
+  <img width="600" height="200" alt="Github status" src="https://github-readme-stats.vercel.app/api?username=JuHyun419&count_private=true&theme=radical">
 </p>
 
 
