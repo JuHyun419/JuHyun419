@@ -5,9 +5,10 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer&&fontSize=90)  
 -->
 
-# JuHyun 🐔
+# JuHyun 🐔 🐶 🐝
 ---------------------------------------------------------
-### Hello World
+
+![멍뭉](https://user-images.githubusercontent.com/50076031/118226149-615b6700-b4c1-11eb-8252-6c7aa5f0a5bb.gif)
 
     
 
