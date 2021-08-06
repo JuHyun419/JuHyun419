@@ -20,7 +20,7 @@
   
   [![Tistory Blog](http://img.shields.io/badge/-Tistory%20Blog-blue?style=flat&logo=Blogger&link=https://zzang9ha.tistory.com/)](https://zzang9ha.tistory.com/) 
   [![Naver Blog](http://img.shields.io/badge/-Naver%20Blog-green?style=flat&logo=Blogger&link=https://blog.naver.com/zzang9ha)](https://blog.naver.com/zzang9ha) 
-  [![Study](http://img.shields.io/badge/-Study%20-655ced?style=flat&logo=github&link=https://github.com/jh-dev-study)](https://github.com/jh-dev-study) 
+  [![Study](http://img.shields.io/badge/-Study%20-655ced?style=flat&logo=github&link=https://github.com/JuHyun419/study)](https://github.com/JuHyun419/study) 
   [![Project](http://img.shields.io/badge/-Project-ff69b4?style=flat&logo=github&link=https://github.com/jh-project-repo)](https://github.com/jh-project-repo) 
   [![Gmail](http://img.shields.io/badge/Gmail-important?style=flat&logo=Gmail&link=mailto:zzang9haha@gmail.com)](mailto:zzang9haha@gmail.com) 
 
