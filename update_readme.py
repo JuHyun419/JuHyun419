@@ -12,7 +12,7 @@ for idx, feed in enumerate(RSS_FEED['entries']):
     feed_date = feed['published_parsed']
     blog_post_list += f"[{feed_date.tm_year}/{feed_date.tm_mon}/{feed_date.tm_mday} - {feed['title']}]({feed['link']}) <br/>\n"
     
-markdown = """# 🐔 🐝 🐜
+markdown = """## 🐔 🐝 🐜
 
 
 <p align="center">
@@ -40,7 +40,7 @@ markdown = """# 🐔 🐝 🐜
  
 <br>
  
-📚 Latest Blog Post
+## 📚 Latest Blog Post
 
 """
 
