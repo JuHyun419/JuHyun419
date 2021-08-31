@@ -1,4 +1,4 @@
-# 🐔 🐝 🐜
+## 🐔 🐝 🐜
 
 
 <p align="center">
@@ -26,7 +26,7 @@
  
 <br>
  
-📚 Latest Blog Post
+## 📚 Latest Blog Post
 
 [2021/8/29 - 여름이 떠나가는 8월의 회고](https://zzang9ha.tistory.com/379) <br/>
 [2021/8/27 - Spring AOP - (1) 프록시 패턴, 데코레이터 패턴](https://zzang9ha.tistory.com/378) <br/>
