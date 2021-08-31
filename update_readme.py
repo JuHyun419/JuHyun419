@@ -1,7 +1,7 @@
 import feedparser
 
 URL = "https://zzang9ha.tistory.com/"
-RSS_FEED = feedparser.parse(url)
+RSS_FEED = feedparser.parse(URL)
 MAX_POST = 5
 
 blog_post_list = ""
