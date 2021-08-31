@@ -28,3 +28,9 @@
  
 📚 Latest Blog Post
 
+[`2021/8/29 - 여름이 떠나가는 8월의 회고`](https://zzang9ha.tistory.com/379) <br>
+[`2021/8/27 - Spring AOP - (1) 프록시 패턴, 데코레이터 패턴`](https://zzang9ha.tistory.com/378) <br>
+[`2021/8/18 - [GitHub] - IntelliJ Task로 GitHub Issues의 브랜치 간단하게 생성하기`](https://zzang9ha.tistory.com/377) <br>
+[`2021/8/10 - DBCP(DataBase Conncetion Pool), 커넥션풀 이란?`](https://zzang9ha.tistory.com/376) <br>
+[`2021/8/6 - AWS CloudWatch를 통해 CPU 사용량 모니터링하기`](https://zzang9ha.tistory.com/375) <br>
+[`2021/8/5 - 사용자가 게시물을 작성할 때의 트랜잭션 처리`](https://zzang9ha.tistory.com/374) <br>
