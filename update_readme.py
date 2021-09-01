@@ -1,4 +1,5 @@
 import feedparser
+import time
 
 URL = "https://zzang9ha.tistory.com/rss"
 RSS_FEED = feedparser.parse(URL)
@@ -10,7 +11,7 @@ for idx, feed in enumerate(RSS_FEED['entries']):
     if idx > MAX_POST:
         break
     feed_date = feed['published_parsed']
-    blog_post_list += f"[{feed_date.tm_year}/{feed_date.tm_mon}/{feed_date.tm_mday} - {feed['title']}]({feed['link']}) <br/>\n"
+    blog_post_list += f"[{time.strftime('%Y/%m/%d', feed_date)} - {feed['title']}]({feed['link']}) <br/>\n"
     
 markdown = """## 🐔 🐝 🐜
 
