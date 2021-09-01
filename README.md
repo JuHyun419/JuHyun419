@@ -1,7 +1,5 @@
 ## 🐔 🐝 🐜
 
-
-
 <div>
   
   <img width="494" height="200" alt="Github status" src="https://github-readme-stats.vercel.app/api?username=JuHyun419&count_private=true&theme=radical">
