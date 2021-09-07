@@ -28,9 +28,9 @@
  
 ## 📚 Latest Blog Post
 
+[2021/09/06 - Spring Boot + MockMvc 테스트(feat. Kotlin)](https://zzang9ha.tistory.com/382) <br/>
 [2021/09/05 - [MySQL] - 트랜잭션의 격리 수준(Isolation level)](https://zzang9ha.tistory.com/381) <br/>
 [2021/09/02 - [Spring] - @JsonProperty, @JsonNaming](https://zzang9ha.tistory.com/380) <br/>
 [2021/08/29 - 여름이 떠나가는 8월의 회고](https://zzang9ha.tistory.com/379) <br/>
 [2021/08/27 - Spring AOP - (1) 프록시 패턴, 데코레이터 패턴](https://zzang9ha.tistory.com/378) <br/>
 [2021/08/18 - [GitHub] - IntelliJ Task로 GitHub Issues의 브랜치 간단하게 생성하기](https://zzang9ha.tistory.com/377) <br/>
-[2021/08/10 - DBCP(DataBase Conncetion Pool), 커넥션풀 이란?](https://zzang9ha.tistory.com/376) <br/>
