@@ -28,9 +28,9 @@
  
 ## 📚 Latest Blog Post
 
+[2021/09/11 - [Spring Data MongoDB] - Auto Increment Sequence 초기화하기](https://zzang9ha.tistory.com/385) <br/>
 [2021/09/09 - [Spring Data MongoDB] Auto-Increment Sequence 만들기](https://zzang9ha.tistory.com/384) <br/>
 [2021/09/08 - Spring Validation - @NotNull, @NotEmpty, @NotBlank](https://zzang9ha.tistory.com/383) <br/>
 [2021/09/06 - Spring Boot + MockMvc 테스트(feat. Kotlin)](https://zzang9ha.tistory.com/382) <br/>
 [2021/09/05 - [MySQL] - 트랜잭션의 격리 수준(Isolation level)](https://zzang9ha.tistory.com/381) <br/>
 [2021/09/02 - [Spring] - @JsonProperty, @JsonNaming](https://zzang9ha.tistory.com/380) <br/>
-[2021/08/29 - 여름이 떠나가는 8월의 회고](https://zzang9ha.tistory.com/379) <br/>
