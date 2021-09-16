@@ -28,9 +28,9 @@
  
 ## 📚 Latest Blog Post
 
+[2021/09/15 - [Spring] - 로깅: Log4j, Log4j2, Slf4j, Logback](https://zzang9ha.tistory.com/387) <br/>
 [2021/09/14 - 인텔리제이(IntelliJ) - VisualVM 설치 및 연동하기](https://zzang9ha.tistory.com/386) <br/>
 [2021/09/11 - [Spring Data MongoDB] - Auto Increment Sequence 초기화하기](https://zzang9ha.tistory.com/385) <br/>
 [2021/09/09 - [Spring Data MongoDB] Auto-Increment Sequence 만들기](https://zzang9ha.tistory.com/384) <br/>
 [2021/09/08 - Spring Validation - @NotNull, @NotEmpty, @NotBlank](https://zzang9ha.tistory.com/383) <br/>
 [2021/09/06 - Spring Boot + MockMvc 테스트(feat. Kotlin)](https://zzang9ha.tistory.com/382) <br/>
-[2021/09/05 - [MySQL] - 트랜잭션의 격리 수준(Isolation level)](https://zzang9ha.tistory.com/381) <br/>
