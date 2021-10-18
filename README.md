@@ -28,9 +28,9 @@
  
 ## 📚 Latest Blog Post
 
+[2021/10/17 - [Kotlin] - Class(클래스)](https://zzang9ha.tistory.com/391) <br/>
 [2021/10/10 - 인텔리제이(IntelliJ) - 디버깅(Debugging) 하기](https://zzang9ha.tistory.com/390) <br/>
 [2021/09/24 - Spring AOP - (2) AOP 개념 및 실습](https://zzang9ha.tistory.com/389) <br/>
 [2021/09/16 - 22 Best Practices to Take Your API Design Skills to the Next Level](https://zzang9ha.tistory.com/388) <br/>
 [2021/09/15 - [Spring] - 로깅: Log4j, Log4j2, Slf4j, Logback](https://zzang9ha.tistory.com/387) <br/>
 [2021/09/14 - 인텔리제이(IntelliJ) - VisualVM 설치 및 연동하기](https://zzang9ha.tistory.com/386) <br/>
-[2021/09/11 - [Spring Data MongoDB] - Auto Increment Sequence 초기화하기](https://zzang9ha.tistory.com/385) <br/>
