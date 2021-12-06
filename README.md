@@ -28,9 +28,9 @@
  
 ## 📚 Latest Blog Post
 
+[2021/12/05 - 포스트맨(API 테스트) 활용하기](https://zzang9ha.tistory.com/394) <br/>
 [2021/11/07 - 월간  코드리뷰 Ver_0.1: 커리어 성장 CODE 세미나 정리](https://zzang9ha.tistory.com/393) <br/>
 [2021/10/24 - [Java, 디자인 패턴] - 싱글턴 패턴(Singleton Pattern)](https://zzang9ha.tistory.com/392) <br/>
 [2021/10/17 - [Kotlin] - Class(클래스)](https://zzang9ha.tistory.com/391) <br/>
 [2021/10/10 - 인텔리제이(IntelliJ) - 디버깅(Debugging) 하기](https://zzang9ha.tistory.com/390) <br/>
 [2021/09/24 - Spring AOP - (2) AOP 개념 및 실습](https://zzang9ha.tistory.com/389) <br/>
-[2021/09/16 - 22 Best Practices to Take Your API Design Skills to the Next Level](https://zzang9ha.tistory.com/388) <br/>
