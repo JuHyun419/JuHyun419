@@ -28,9 +28,9 @@
  
 ## 📚 Latest Blog Post
 
+[2022/03/12 - Spring Boot SQL 설정(hibernate, logging)](https://zzang9ha.tistory.com/399) <br/>
 [2022/03/06 - 맥북 - 아이패드 사이드카 연결 끊길 때(연결 해제)](https://zzang9ha.tistory.com/398) <br/>
 [2022/02/27 - git diff 명령어를 통해 두 branch의 차이점 확인하기](https://zzang9ha.tistory.com/397) <br/>
 [2022/01/02 - 뜻깊은 2021년 회고](https://zzang9ha.tistory.com/396) <br/>
 [2021/12/27 - 두 개의 파일 비교하기(IntelliJ, Mac)](https://zzang9ha.tistory.com/395) <br/>
 [2021/12/05 - 포스트맨(API 테스트) 활용하기](https://zzang9ha.tistory.com/394) <br/>
-[2021/11/07 - 월간  코드리뷰 Ver_0.1: 커리어 성장 CODE 세미나 정리](https://zzang9ha.tistory.com/393) <br/>
