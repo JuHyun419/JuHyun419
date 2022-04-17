@@ -28,9 +28,9 @@
  
 ## 📚 Latest Blog Post
 
+[2022/04/16 - 자바와 JUnit을 활용한 실용주의 단위 테스트 리뷰](https://zzang9ha.tistory.com/403) <br/>
 [2022/04/06 - ./gradlew build(test) failed - Could not initialize class org.jetbrains.kotlin.com.intellij.util.io.FileChannelUtil ~](https://zzang9ha.tistory.com/401) <br/>
 [2022/03/27 - [Kotlin] Slack API로 슬랙 채널에 Message 발송하기](https://zzang9ha.tistory.com/400) <br/>
 [2022/03/12 - Spring Boot SQL 설정(hibernate, logging)](https://zzang9ha.tistory.com/399) <br/>
 [2022/03/06 - 맥북 - 아이패드 사이드카 연결 끊길 때(연결 해제)](https://zzang9ha.tistory.com/398) <br/>
 [2022/02/27 - git diff 명령어를 통해 두 branch의 차이점 확인하기](https://zzang9ha.tistory.com/397) <br/>
-[2022/01/02 - 뜻깊은 2021년 회고](https://zzang9ha.tistory.com/396) <br/>
