@@ -28,9 +28,9 @@
  
 ## 📚 Latest Blog Post
 
+[2022/06/04 - Jenkins에 Plugin 파일을 직접 받아서 설치하기](https://zzang9ha.tistory.com/407) <br/>
 [2022/06/01 - LazyInitializationException: could not initialize proxy - no Session Error](https://zzang9ha.tistory.com/406) <br/>
 [2022/05/17 - 구글링 잘하는법 꿀팁 정리(feat. 드림코딩)](https://zzang9ha.tistory.com/405) <br/>
 [2022/05/03 - GitHub-Actions로 CI/CD 구축하기(AWS, Docker, SpringBoot)](https://zzang9ha.tistory.com/404) <br/>
 [2022/04/16 - 자바와 JUnit을 활용한 실용주의 단위 테스트 리뷰](https://zzang9ha.tistory.com/403) <br/>
 [2022/04/06 - ./gradlew build(test) failed - Could not initialize class org.jetbrains.kotlin.com.intellij.util.io.FileChannelUtil ~](https://zzang9ha.tistory.com/401) <br/>
-[2022/03/27 - [Kotlin] Slack API로 슬랙 채널에 Message 발송하기](https://zzang9ha.tistory.com/400) <br/>
