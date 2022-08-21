@@ -28,9 +28,9 @@
  
 ## 📚 Latest Blog Post
 
+[2022/08/20 - Spring Data MongoDB Array field $elemMatch(MongoRepository Custom)](https://zzang9ha.tistory.com/412) <br/>
 [2022/08/09 - 맥 터미널에서 IntelliJ 실행이 안될때(idea .)](https://zzang9ha.tistory.com/411) <br/>
 [2022/07/02 - 개인적으로 구독하고 있는 서비스들](https://zzang9ha.tistory.com/410) <br/>
 [2022/06/21 - [Network] NAT(Network Address Translation)](https://zzang9ha.tistory.com/409) <br/>
 [2022/06/19 - 좋은 개발자로 성장하려면 - 박종천님(DEVOCEAN)](https://zzang9ha.tistory.com/408) <br/>
 [2022/06/04 - Jenkins에 Plugin 파일을 직접 받아서 설치하기](https://zzang9ha.tistory.com/407) <br/>
-[2022/06/01 - LazyInitializationException: could not initialize proxy - no Session Error](https://zzang9ha.tistory.com/406) <br/>
