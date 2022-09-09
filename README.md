@@ -13,7 +13,6 @@
   [![Tistory Blog](http://img.shields.io/badge/-Tistory%20Blog-blue?style=flat&logo=Blogger&link=https://zzang9ha.tistory.com/)](https://zzang9ha.tistory.com/) 
   [![Project](http://img.shields.io/badge/-Project-ff69b4?style=flat&logo=github&link=https://github.com/YAPP-19th/Web-Team-2-Backend)](https://github.com/YAPP-19th/Web-Team-2-Backend) 
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/juhyun-lee-87176a19b/)](https://www.linkedin.com/in/juhyun-lee-87176a19b/)
-  [![Project](http://img.shields.io/badge/-Project-ff69b4?style=flat&logo=github&link=https://github.com/jh-project-repo)](https://github.com/jh-project-repo) 
   [![Gmail](http://img.shields.io/badge/Gmail-important?style=flat&logo=Gmail&link=mailto:zzang9haha@gmail.com)](mailto:zzang9haha@gmail.com) 
 
 </div>
