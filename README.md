@@ -27,9 +27,9 @@
  
 ## 📚 Latest Blog Post
 
+[2022/09/14 - Git Sqaush로 여러 개의 Commit logs 합치기(Git Rebase)](https://zzang9ha.tistory.com/417) <br/>
 [2022/09/09 - Github 레포지토리 커밋 이력 유지한 채 다른 레포지토리에 복제하기](https://zzang9ha.tistory.com/416) <br/>
 [2022/09/05 - Spring Boot profiles 설정하기](https://zzang9ha.tistory.com/415) <br/>
 [2022/09/03 - Spring Thread, Transaction, Connection 관계](https://zzang9ha.tistory.com/414) <br/>
 [2022/08/22 - IP 주소(클래스, CIDR, 서브넷 마스크)](https://zzang9ha.tistory.com/413) <br/>
 [2022/08/20 - Spring Data MongoDB Array field $elemMatch(MongoRepository Custom)](https://zzang9ha.tistory.com/412) <br/>
-[2022/08/09 - 맥 터미널에서 IntelliJ 실행이 안될때(idea .)](https://zzang9ha.tistory.com/411) <br/>
