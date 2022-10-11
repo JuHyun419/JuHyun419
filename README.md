@@ -27,9 +27,9 @@
  
 ## 📚 Latest Blog Post
 
+[2022/10/10 - [Java DeepDive] - String (1)](https://zzang9ha.tistory.com/421) <br/>
 [2022/10/03 - Spring + MyBatis에서 쿼리의 결과와 객체가 매핑이 되는 과정](https://zzang9ha.tistory.com/420) <br/>
 [2022/09/24 - 인프콘 2022 - (레거시 시스템) 개편의 기술](https://zzang9ha.tistory.com/419) <br/>
 [2022/09/17 - JUnit5 assertThat vs assertAll vs assertSoftly](https://zzang9ha.tistory.com/418) <br/>
 [2022/09/14 - Git Sqaush로 여러 개의 Commit logs 합치기(Git Rebase)](https://zzang9ha.tistory.com/417) <br/>
 [2022/09/09 - Github 레포지토리 커밋 이력 유지한 채 다른 레포지토리에 복제하기](https://zzang9ha.tistory.com/416) <br/>
-[2022/09/05 - Spring Boot profiles 설정하기](https://zzang9ha.tistory.com/415) <br/>
