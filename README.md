@@ -27,9 +27,9 @@
  
 ## 📚 Latest Blog Post
 
+[2022/11/03 - Spring Batch (5) Step, StepExecution](https://zzang9ha.tistory.com/428) <br/>
 [2022/11/01 - Spring Batch (4) Job, JobInstance, JobParameters, JobExecution](https://zzang9ha.tistory.com/427) <br/>
 [2022/10/30 - Spring Batch (3) DB 스키마](https://zzang9ha.tistory.com/426) <br/>
 [2022/10/29 - [Java DeepDive] - List (ArrayList)](https://zzang9ha.tistory.com/425) <br/>
 [2022/10/29 - Spring Batch (2) 프로젝트 구성 및 의존성 설정, Hello World](https://zzang9ha.tistory.com/424) <br/>
 [2022/10/27 - Spring Batch (1) 개요](https://zzang9ha.tistory.com/423) <br/>
-[2022/10/23 - [Java DeepDive] - String (2) 내장 함수](https://zzang9ha.tistory.com/422) <br/>
