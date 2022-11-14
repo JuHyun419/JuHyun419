@@ -27,9 +27,9 @@
  
 ## 📚 Latest Blog Post
 
+[2022/11/13 - Spring Batch (9) JobParametersValidator](https://zzang9ha.tistory.com/432) <br/>
 [2022/11/10 - Spring Batch (8) JobLauncher](https://zzang9ha.tistory.com/431) <br/>
 [2022/11/08 - Spring Batch (7) JobRepository](https://zzang9ha.tistory.com/430) <br/>
 [2022/11/05 - Spring Batch (6) ExecutionContext](https://zzang9ha.tistory.com/429) <br/>
 [2022/11/03 - Spring Batch (5) Step, StepExecution](https://zzang9ha.tistory.com/428) <br/>
 [2022/11/01 - Spring Batch (4) Job, JobInstance, JobParameters, JobExecution](https://zzang9ha.tistory.com/427) <br/>
-[2022/10/30 - Spring Batch (3) DB 스키마](https://zzang9ha.tistory.com/426) <br/>
