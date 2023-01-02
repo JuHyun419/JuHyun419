@@ -27,9 +27,9 @@
  
 ## 📚 Latest Blog Post
 
+[2023/01/01 - 무난했던 2022년, 새로운 시작 2023년](https://zzang9ha.tistory.com/435) <br/>
 [2022/12/08 - Spring Batch (10) @JobScope,  @StepScope](https://zzang9ha.tistory.com/434) <br/>
 [2022/11/27 - [Java DeepDive] - Map(HashMap) 1. 개념, 필드, 생성자](https://zzang9ha.tistory.com/433) <br/>
 [2022/11/13 - Spring Batch (9) JobParametersValidator](https://zzang9ha.tistory.com/432) <br/>
 [2022/11/10 - Spring Batch (8) JobLauncher](https://zzang9ha.tistory.com/431) <br/>
 [2022/11/08 - Spring Batch (7) JobRepository](https://zzang9ha.tistory.com/430) <br/>
-[2022/11/05 - Spring Batch (6) ExecutionContext](https://zzang9ha.tistory.com/429) <br/>
