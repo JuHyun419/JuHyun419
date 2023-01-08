@@ -27,7 +27,7 @@
  
 ## 📚 Latest Blog Post
 
-[2023/01/06 - MySQL EXPLAIN 실행계획 분석하기 (feat. RealMySQL 8.0)](https://zzang9ha.tistory.com/436) <br/>
+[2023/01/06 - MySQL EXPLAIN 실행계획 마스터하기(feat. RealMySQL 8.0)](https://zzang9ha.tistory.com/436) <br/>
 [2023/01/01 - 무난했던 2022년, 새로운 시작 2023년](https://zzang9ha.tistory.com/435) <br/>
 [2022/12/08 - Spring Batch (10) @JobScope,  @StepScope](https://zzang9ha.tistory.com/434) <br/>
 [2022/11/27 - [Java DeepDive] - Map(HashMap) 1. 개념, 필드, 생성자](https://zzang9ha.tistory.com/433) <br/>
