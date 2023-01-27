@@ -27,9 +27,9 @@
  
 ## 📚 Latest Blog Post
 
+[2023/01/26 - EasyRandom - Java beans를 랜덤으로 생성해 주는 라이브러리](https://zzang9ha.tistory.com/440) <br/>
 [2023/01/21 - SpringBoot Multi DataSource - JPA](https://zzang9ha.tistory.com/439) <br/>
 [2023/01/15 - Spring Batch (11) Repeat](https://zzang9ha.tistory.com/438) <br/>
 [2023/01/13 - Spring AOP를 사용하여 클라이언트의 요청 정보 로깅하기](https://zzang9ha.tistory.com/437) <br/>
 [2023/01/06 - MySQL EXPLAIN 실행계획 마스터하기(feat. RealMySQL 8.0)](https://zzang9ha.tistory.com/436) <br/>
 [2023/01/01 - 무난했던 2022년, 새로운 시작 2023년](https://zzang9ha.tistory.com/435) <br/>
-[2022/12/08 - Spring Batch (10) @JobScope,  @StepScope](https://zzang9ha.tistory.com/434) <br/>
