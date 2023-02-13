@@ -27,9 +27,9 @@
  
 ## 📚 Latest Blog Post
 
+[2023/02/12 - Spring 분산 환경에서 세션 관리하기 (Redis Session Clustering)](https://zzang9ha.tistory.com/442) <br/>
 [2023/02/11 - Spring DispatcherServlet(디스패처 서블릿) 개념부터 동작 과정까지](https://zzang9ha.tistory.com/441) <br/>
 [2023/01/26 - EasyRandom - Java beans를 랜덤으로 생성해 주는 라이브러리](https://zzang9ha.tistory.com/440) <br/>
 [2023/01/21 - SpringBoot Multi DataSource - JPA](https://zzang9ha.tistory.com/439) <br/>
 [2023/01/15 - Spring Batch (11) Repeat](https://zzang9ha.tistory.com/438) <br/>
 [2023/01/13 - Spring AOP를 사용하여 클라이언트의 요청 정보 로깅하기](https://zzang9ha.tistory.com/437) <br/>
-[2023/01/06 - MySQL EXPLAIN 실행계획 마스터하기(feat. RealMySQL 8.0)](https://zzang9ha.tistory.com/436) <br/>
