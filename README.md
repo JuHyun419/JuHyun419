@@ -27,9 +27,9 @@
  
 ## 📚 Latest Blog Post
 
+[2023/12/30 - Spring 스케쥴러 로직이 멀티 서버 중 한 서버에서만 실행되도록 설정하기](https://zzang9ha.tistory.com/456) <br/>
 [2023/12/20 - Java 클래스 설계 안전하게 잘 하기 (feat. 응집도)](https://zzang9ha.tistory.com/455) <br/>
 [2023/12/16 - Java 클래스 설계 안전하게 잘 하기](https://zzang9ha.tistory.com/454) <br/>
 [2023/12/09 - Spring @ComponentScan 동작 과정](https://zzang9ha.tistory.com/453) <br/>
 [2023/12/01 - Spring Bean 이 등록되는 과정](https://zzang9ha.tistory.com/452) <br/>
 [2023/11/20 - 스프링에서 클라이언트로 데이터 전달 시 한글이 깨지는 이슈 (ISO-8859-1)](https://zzang9ha.tistory.com/451) <br/>
-[2023/09/30 - Bean Validation (Hibernate Validation)](https://zzang9ha.tistory.com/450) <br/>
