@@ -27,9 +27,9 @@
  
 ## 📚 Latest Blog Post
 
+[2024/10/08 - 업무에 바로 쓰는 SQL 튜닝 2 - SQL 튜닝 실습 (1)](https://zzang9ha.tistory.com/464) <br/>
 [2024/10/07 - 업무에 바로 쓰는 SQL 튜닝 1 - SQL 튜닝 이론](https://zzang9ha.tistory.com/463) <br/>
 [2024/09/08 - Modern Java: An In-Depth Guide from Java 8 to Java 21](https://zzang9ha.tistory.com/462) <br/>
 [2024/08/26 - &quot;실무로 통하는 클린 코드&quot; 도서 리뷰](https://zzang9ha.tistory.com/461) <br/>
 [2024/05/25 - 켄트 백의 Tidy First? 도서 리뷰](https://zzang9ha.tistory.com/460) <br/>
 [2024/03/19 - Spring @RequestBody 필드 바인딩이 되지 않는 이슈 (feat. Lombok, Jackson의 네이밍 차이)](https://zzang9ha.tistory.com/459) <br/>
-[2024/03/04 - Spring Swagger(springdoc-openapi) Unable to render this definition 오류](https://zzang9ha.tistory.com/458) <br/>
