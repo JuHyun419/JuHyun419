@@ -1,4 +1,10 @@
- ## 🐔 🐝 🐜
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/JuHyun419?pet-id=632796206058787014"
+    width="500"
+    height="190"
+  />
+</a>
 
 <div>
   
@@ -24,6 +30,7 @@
 </div>
  
 <br>
+
  
 ## 📚 Latest Blog Post
 
