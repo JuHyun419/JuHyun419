@@ -13,7 +13,16 @@ for idx, feed in enumerate(RSS_FEED['entries']):
     feed_date = feed['published_parsed']
     blog_post_list += f"[{time.strftime('%Y/%m/%d', feed_date)} - {feed['title']}]({feed['link']}) <br/>\n"
     
-markdown = """ ## 🐔 🐝 🐜
+markdown = """
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/JuHyun419?pet-id=632796206058787014"
+    width="500"
+    height="190"
+  />
+</a>
+
 
 <div>
   
