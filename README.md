@@ -36,9 +36,9 @@
  
 ## 📚 Latest Blog Post
 
+[2024/12/22 - Elasticsearch Exists 키워드](https://zzang9ha.tistory.com/470) <br/>
+[2024/12/21 - &quot;이펙티브 소프트웨어 테스팅&quot; 정리](https://zzang9ha.tistory.com/469) <br/>
 [2024/12/15 - Kotlin - Scope functions (let, with, run, apply, also)](https://zzang9ha.tistory.com/468) <br/>
 [2024/10/27 - System Design: Message Deduplication System](https://zzang9ha.tistory.com/467) <br/>
 [2024/10/25 - 인프콘 2024 정리](https://zzang9ha.tistory.com/466) <br/>
 [2024/10/14 - DB Function to Java Application 이관 (feat. 프로시저)](https://zzang9ha.tistory.com/465) <br/>
-[2024/10/08 - 업무에 바로 쓰는 SQL 튜닝 2 - SQL 튜닝 실습 (1)](https://zzang9ha.tistory.com/464) <br/>
-[2024/10/07 - 업무에 바로 쓰는 SQL 튜닝 1 - SQL 튜닝 이론](https://zzang9ha.tistory.com/463) <br/>
