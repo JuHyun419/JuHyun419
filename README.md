@@ -36,9 +36,9 @@
  
 ## 📚 Latest Blog Post
 
+[2025/01/30 - Elasticsearch Track total hits](https://zzang9ha.tistory.com/474) <br/>
+[2025/01/29 - Elasticsearch Random Score](https://zzang9ha.tistory.com/473) <br/>
 [2025/01/16 - Kotlin for iterator](https://zzang9ha.tistory.com/472) <br/>
 [2024/12/30 - &quot;무엇이 1등 팀을 만드는가?&quot; 도서 리뷰](https://zzang9ha.tistory.com/471) <br/>
 [2024/12/22 - Elasticsearch Exists 키워드](https://zzang9ha.tistory.com/470) <br/>
 [2024/12/21 - &quot;이펙티브 소프트웨어 테스팅&quot; 정리](https://zzang9ha.tistory.com/469) <br/>
-[2024/12/15 - Kotlin - Scope functions (let, with, run, apply, also)](https://zzang9ha.tistory.com/468) <br/>
-[2024/10/27 - System Design: Message Deduplication System](https://zzang9ha.tistory.com/467) <br/>
