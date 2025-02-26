@@ -36,9 +36,9 @@
  
 ## 📚 Latest Blog Post
 
+[2025/02/25 - 사용자 수에 따른 규모 확장성](https://zzang9ha.tistory.com/476) <br/>
 [2025/02/09 - Kotlin Collection (1) - (forEach, onEach, filter, filterNot, map, mapNotNull, flatMap, fold, reduce, sum, sumOf)](https://zzang9ha.tistory.com/475) <br/>
 [2025/01/30 - Elasticsearch Track total hits](https://zzang9ha.tistory.com/474) <br/>
 [2025/01/29 - Elasticsearch Random Score](https://zzang9ha.tistory.com/473) <br/>
 [2025/01/16 - Kotlin for iterator](https://zzang9ha.tistory.com/472) <br/>
 [2024/12/30 - &quot;무엇이 1등 팀을 만드는가?&quot; 도서 리뷰](https://zzang9ha.tistory.com/471) <br/>
-[2024/12/22 - Elasticsearch Exists 키워드](https://zzang9ha.tistory.com/470) <br/>
