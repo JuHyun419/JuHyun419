@@ -36,9 +36,9 @@
  
 ## 📚 Latest Blog Post
 
+[2025/04/26 - &quot;이펙티브 소프트웨어 아키텍처&quot; 리뷰](https://zzang9ha.tistory.com/478) <br/>
 [2025/03/10 - 처리율 제한 장치의 설계](https://zzang9ha.tistory.com/477) <br/>
 [2025/02/25 - 사용자 수에 따른 규모 확장성](https://zzang9ha.tistory.com/476) <br/>
 [2025/02/09 - Kotlin Collection (1) - (forEach, onEach, filter, filterNot, map, mapNotNull, flatMap, fold, reduce, sum, sumOf)](https://zzang9ha.tistory.com/475) <br/>
 [2025/01/30 - Elasticsearch Track total hits](https://zzang9ha.tistory.com/474) <br/>
 [2025/01/29 - Elasticsearch Random Score](https://zzang9ha.tistory.com/473) <br/>
-[2025/01/16 - Kotlin for iterator](https://zzang9ha.tistory.com/472) <br/>
