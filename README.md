@@ -36,9 +36,9 @@
  
 ## 📚 Latest Blog Post
 
+[2025/05/24 - &quot;심플 소프트웨어&quot; 도서 리뷰](https://zzang9ha.tistory.com/480) <br/>
 [2025/05/12 - 분산 시스템을 위한 Unique ID 생성기 설계](https://zzang9ha.tistory.com/479) <br/>
 [2025/04/26 - &quot;이펙티브 소프트웨어 아키텍처&quot; 리뷰](https://zzang9ha.tistory.com/478) <br/>
 [2025/03/10 - 처리율 제한 장치의 설계](https://zzang9ha.tistory.com/477) <br/>
 [2025/02/25 - 사용자 수에 따른 규모 확장성](https://zzang9ha.tistory.com/476) <br/>
 [2025/02/09 - Kotlin Collection (1) - (forEach, onEach, filter, filterNot, map, mapNotNull, flatMap, fold, reduce, sum, sumOf)](https://zzang9ha.tistory.com/475) <br/>
-[2025/01/30 - Elasticsearch Track total hits](https://zzang9ha.tistory.com/474) <br/>
