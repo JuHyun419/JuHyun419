@@ -36,9 +36,9 @@
  
 ## 📚 Latest Blog Post
 
+[2025/07/06 - AWS MSK(Kafka) Producer 설정 가이드](https://zzang9ha.tistory.com/484) <br/>
 [2025/06/25 - 이펙티브 코틀린 - 3장 재사용성](https://zzang9ha.tistory.com/483) <br/>
 [2025/06/14 - 이펙티브 코틀린 2장 - 가독성](https://zzang9ha.tistory.com/482) <br/>
 [2025/06/03 - 이펙티브 코틀린 - 1장 안정성](https://zzang9ha.tistory.com/481) <br/>
 [2025/05/24 - &quot;심플 소프트웨어&quot; 도서 리뷰](https://zzang9ha.tistory.com/480) <br/>
 [2025/05/12 - 분산 시스템을 위한 Unique ID 생성기 설계](https://zzang9ha.tistory.com/479) <br/>
-[2025/04/26 - &quot;이펙티브 소프트웨어 아키텍처&quot; 리뷰](https://zzang9ha.tistory.com/478) <br/>
