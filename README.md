@@ -36,9 +36,9 @@
  
 ## 📚 Latest Blog Post
 
+[2025/07/12 - 이펙티브 코틀린 - 4장 추상화 설계](https://zzang9ha.tistory.com/486) <br/>
 [2025/07/09 - Kafka Consumer 설정 가이드](https://zzang9ha.tistory.com/485) <br/>
 [2025/07/06 - Kafka Producer 설정 가이드](https://zzang9ha.tistory.com/484) <br/>
 [2025/06/25 - 이펙티브 코틀린 - 3장 재사용성](https://zzang9ha.tistory.com/483) <br/>
 [2025/06/14 - 이펙티브 코틀린 2장 - 가독성](https://zzang9ha.tistory.com/482) <br/>
 [2025/06/03 - 이펙티브 코틀린 - 1장 안정성](https://zzang9ha.tistory.com/481) <br/>
-[2025/05/24 - &quot;심플 소프트웨어&quot; 도서 리뷰](https://zzang9ha.tistory.com/480) <br/>
