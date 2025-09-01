@@ -36,9 +36,9 @@
  
 ## 📚 Latest Blog Post
 
+[2025/08/31 - 코드 너머, 회사보다 오래 남을 개발자](https://zzang9ha.tistory.com/488) <br/>
 [2025/08/15 - 이펙티브 코틀린 - 5장 객체 생성](https://zzang9ha.tistory.com/487) <br/>
 [2025/07/12 - 이펙티브 코틀린 - 4장 추상화 설계](https://zzang9ha.tistory.com/486) <br/>
 [2025/07/09 - Kafka Consumer 설정 가이드](https://zzang9ha.tistory.com/485) <br/>
 [2025/07/06 - Kafka Producer 설정 가이드](https://zzang9ha.tistory.com/484) <br/>
 [2025/06/25 - 이펙티브 코틀린 - 3장 재사용성](https://zzang9ha.tistory.com/483) <br/>
-[2025/06/14 - 이펙티브 코틀린 2장 - 가독성](https://zzang9ha.tistory.com/482) <br/>
